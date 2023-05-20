@@ -1,0 +1,7 @@
+.vs
+database\IntegrationTest.Database\bin
+database\IntegrationTest.Database\obj
+database\IntegrationTest.Database\IntegrationTest.Database.jfm
+IntegrationTest.Api\bin
+IntegrationTest.Api\obj
+

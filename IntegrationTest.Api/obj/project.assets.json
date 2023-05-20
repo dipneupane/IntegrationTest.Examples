@@ -3226,11 +3226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkingDir\\IntegrationTest.Api\\IntegrationTest.Api\\IntegrationTest.Api.csproj",
+      "projectUniqueName": "D:\\WorkingDir\\IntegrationTest.Examples\\IntegrationTest.Api\\IntegrationTest.Api.csproj",
       "projectName": "IntegrationTest.Api",
-      "projectPath": "D:\\WorkingDir\\IntegrationTest.Api\\IntegrationTest.Api\\IntegrationTest.Api.csproj",
+      "projectPath": "D:\\WorkingDir\\IntegrationTest.Examples\\IntegrationTest.Api\\IntegrationTest.Api.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkingDir\\IntegrationTest.Api\\IntegrationTest.Api\\obj\\",
+      "outputPath": "D:\\WorkingDir\\IntegrationTest.Examples\\IntegrationTest.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

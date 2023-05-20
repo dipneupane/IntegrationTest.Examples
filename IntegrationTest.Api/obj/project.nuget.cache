@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XtMuI2jHJo8GQVbrfaFoAeUQSOw95qRMkmuqWDQzoxTXK9bhZSanuciv4aXUlV3oxWqZt4TveZ3RnwcdSdjbsA==",
+  "dgSpecHash": "QgaGWdYNATTIuR5zp/o8ZZsl2mADZcTsuIQKzn8yo7f8l/75ZLK/c7GQ4/TYYKRwYKJ+GCy9354TTQqmCq42Wg==",
   "success": true,
-  "projectFilePath": "D:\\WorkingDir\\IntegrationTest.Api\\IntegrationTest.Api\\IntegrationTest.Api.csproj",
+  "projectFilePath": "D:\\WorkingDir\\IntegrationTest.Examples\\IntegrationTest.Api\\IntegrationTest.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\duende.identityserver\\5.2.0\\duende.identityserver.5.2.0.nupkg.sha512",
