@@ -1,0 +1,34 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[AspNetRoleClaims] (Table)
+       [dbo].[AspNetRoleClaims].[IX_AspNetRoleClaims_RoleId] (Index)
+       [dbo].[AspNetRoles] (Table)
+       [dbo].[AspNetRoles].[RoleNameIndex] (Index)
+       [dbo].[AspNetUserClaims] (Table)
+       [dbo].[AspNetUserClaims].[IX_AspNetUserClaims_UserId] (Index)
+       [dbo].[AspNetUserLogins] (Table)
+       [dbo].[AspNetUserLogins].[IX_AspNetUserLogins_UserId] (Index)
+       [dbo].[AspNetUserRoles] (Table)
+       [dbo].[AspNetUserRoles].[IX_AspNetUserRoles_RoleId] (Index)
+       [dbo].[AspNetUsers] (Table)
+       [dbo].[AspNetUsers].[EmailIndex] (Index)
+       [dbo].[AspNetUsers].[UserNameIndex] (Index)
+       [dbo].[AspNetUserTokens] (Table)
+       [dbo].[FK_AspNetRoleClaims_AspNetRoles_RoleId] (Foreign Key)
+       [dbo].[FK_AspNetUserClaims_AspNetUsers_UserId] (Foreign Key)
+       [dbo].[FK_AspNetUserLogins_AspNetUsers_UserId] (Foreign Key)
+       [dbo].[FK_AspNetUserRoles_AspNetRoles_RoleId] (Foreign Key)
+       [dbo].[FK_AspNetUserRoles_AspNetUsers_UserId] (Foreign Key)
+       [dbo].[FK_AspNetUserTokens_AspNetUsers_UserId] (Foreign Key)
+
+** Supporting actions
