@@ -1,6 +1,0 @@
-D:\WorkingDir\IntegrationTest.Api\database\IntegrationTest.Database\obj\Debug\IntegrationTest.Database.sqlproj.AssemblyReference.cache
-D:\WorkingDir\IntegrationTest.Api\database\IntegrationTest.Database\bin\Debug\IntegrationTest.Database.dacpac
-D:\WorkingDir\IntegrationTest.Api\database\IntegrationTest.Database\bin\Debug\IntegrationTest.Database.dll
-D:\WorkingDir\IntegrationTest.Api\database\IntegrationTest.Database\bin\Debug\IntegrationTest.Database.pdb
-D:\WorkingDir\IntegrationTest.Api\database\IntegrationTest.Database\obj\Debug\IntegrationTest.Database.dll
-D:\WorkingDir\IntegrationTest.Api\database\IntegrationTest.Database\obj\Debug\IntegrationTest.Database.pdb
