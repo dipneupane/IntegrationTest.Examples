@@ -1,10 +1,10 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace IntegrationTest_WorkAround.Controllers
+namespace IntegrationTest.Api.Controllers
 {
 	[ApiController]
-	[Route("[controller]")]
+	[Route("api/[controller]")]
 	public class MoviesController : ControllerBase
 	{
 		private static readonly string[] Movies = new[]

@@ -9,6 +9,10 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "IntegrationTest.Database", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "database", "database", "{6BD05695-ED6E-43E4-8830-83A1939731FD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{AE9DAC6C-9B2A-41E9-9E51-E653661D9534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTest.Api.Test", "test\IntegrationTest.Api.Test\IntegrationTest.Api.Test.csproj", "{91DA65D1-F31B-4954-9EA3-28A6B313C3D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,12 +29,17 @@ Global
 		{88E0EC4A-16C1-4A81-8ABD-1A73A2E31CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88E0EC4A-16C1-4A81-8ABD-1A73A2E31CF5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{88E0EC4A-16C1-4A81-8ABD-1A73A2E31CF5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{91DA65D1-F31B-4954-9EA3-28A6B313C3D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DA65D1-F31B-4954-9EA3-28A6B313C3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DA65D1-F31B-4954-9EA3-28A6B313C3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DA65D1-F31B-4954-9EA3-28A6B313C3D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{88E0EC4A-16C1-4A81-8ABD-1A73A2E31CF5} = {6BD05695-ED6E-43E4-8830-83A1939731FD}
+		{91DA65D1-F31B-4954-9EA3-28A6B313C3D5} = {AE9DAC6C-9B2A-41E9-9E51-E653661D9534}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BE7FBF14-785D-40A1-B08A-667D623C5B38}
