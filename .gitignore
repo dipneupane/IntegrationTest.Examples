@@ -10,3 +10,4 @@ IntegrationTest.Api\obj
 /test/IntegrationTest.Api.Test/obj
 /test/IntegrationTest.Api.Test/bin
 /database/IntegrationTest.Database/IntegrationTest.Database.dbmdl
+/IntegrationTest.Api/bin
